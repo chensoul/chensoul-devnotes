@@ -1,1 +1,2 @@
-# chensoul-devnotes
+# My Dev Notes for Quick Reference
+

@@ -3,4 +3,9 @@ package-lock.json
 
 .DS_Store
 .idea
+
+
+docs/.vitepress/cache
+
 wiki
+
