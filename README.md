@@ -1,12 +1,11 @@
-# My Dev Notes
+# My Tech Notes
 
+## How to run
 
-## Prerequisites
-
+Prerequisites:
 - Nodejs 18+
 - VitePress
 
-## How to run
 
 ```bash
 npm install
