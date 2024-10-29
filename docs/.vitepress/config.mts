@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "ChenSoul DevNotes",
-  description: "A VitePress Site",
+  title: "ChenSoul Tech Notes",
+  // description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: '/tech-notes' },
       { text: 'Blog', link: 'http://blog.chensoul.cc' }
     ],
 
