@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/tech-notes' },
+      { text: 'Home', link: '/' },
       { text: 'Blog', link: 'http://blog.chensoul.cc' }
     ],
 
