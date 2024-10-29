@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "ChenSoul DevNotes"
+  name: "ChenSoul Tech Notes"
   tagline: Welcome to My Tech Notes
   actions:
     - theme: brand

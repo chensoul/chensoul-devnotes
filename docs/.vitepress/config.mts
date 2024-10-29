@@ -51,7 +51,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/chensoul/chensoul-devnotes' }
+      { icon: 'github', link: 'https://github.com/chensoul/tech-notes' }
     ]
   }
 })

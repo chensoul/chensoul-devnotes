@@ -53,13 +53,13 @@ jobs:
   #       env:
   #         SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
   #       with:
-  #         source-repo: git@github.com:chensoul/chensoul-devnotes.git
-  #         destination-repo: git@gitee.com:chensoul/chensoul-devnotes.git
+  #         source-repo: git@github.com:chensoul/tech-notes.git
+  #         destination-repo: git@gitee.com:chensoul/tech-notes.git
 
   #     - name: Build Gitee Pages
   #       uses: yanglbme/gitee-pages-action@main
   #       with:
   #         gitee-username: chensoul
   #         gitee-password: ${{ secrets.GITEE_PASSWORD }}
-  #         gitee-repo: chensoul/chensoul-devnotes
+  #         gitee-repo: chensoul/tech-notes
   #         branch: gh-pages
