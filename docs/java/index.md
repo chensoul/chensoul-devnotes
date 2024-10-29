@@ -37,9 +37,18 @@ $ sdk install java 21.0.1-tem
 - [Zalando/problem-spring-web](https://github.com/zalando/problem-spring-web)
 - [SpringFox](http://springfox.github.io/springfox/)
 
+## Code Generator
+
+- Spring Initializr
+
+- [JHipster](https://www.jhipster.tech/)
+
+- [Bootify](https://bootify.io/)
+
+- [generator-springboot](https://github.com/sivaprasadreddy/generator-springboot)
+- [progen](https://github.com/sivaprasadreddy/progen)
+
 ### Testing
-
-
 
 - [JUnit 5 Docs](https://junit.org/junit5/docs/current/user-guide/)
 - [REST Assured](https://github.com/rest-assured/rest-assured/wiki/Usage)
