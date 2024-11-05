@@ -19,6 +19,15 @@ export default defineConfig({
         items: [
           { text: 'Intro', link: '/java/index.md' },
           { text: 'Maven', link: '/java/maven.md' },
+          { text: 'Idea', link: '/java/idea.md' },
+          { text: 'Jvm', link: '/java/jvm.md' },
+        ]
+      },
+      {
+        text: 'Architecture',
+        collapsed: false,
+        items: [
+          { text: 'Intro', link: '/architecture/index.md' },
         ]
       },
       {
@@ -28,6 +37,7 @@ export default defineConfig({
           { text: 'Intro', link: '/devops/index.md' },
           { text: 'Linux', link: '/devops/linux.md' },
           { text: 'Git', link: '/devops/git.md' },
+          { text: 'Github', link: '/devops/github.md' },
           { text: 'Docker', link: '/devops/docker.md' },
           { text: 'K8s', link: '/devops/k8s.md' },
           { text: 'Jenkins', link: '/devops/jenkins.md' },
