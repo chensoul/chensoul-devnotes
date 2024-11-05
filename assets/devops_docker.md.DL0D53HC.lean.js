@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.DHkrr0_B.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"devops/docker.md","filePath":"devops/docker.md"}'),r={name:"devops/docker.md"};function a(c,s,d,n,p,_){return o(),t("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};
